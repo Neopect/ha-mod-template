@@ -1,6 +1,8 @@
 # import packages
 
 class module_name():
+    # import packages
+
     name = str() # Name of Program
     desc = str() # Program description
     author = str() # John  Doe
@@ -31,8 +33,6 @@ class module_name():
         Any post install tasks will be placed here
         """
         pass
-
-
 
     def start():
         """
