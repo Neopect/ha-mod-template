@@ -25,10 +25,19 @@ Modules are the building bricks of the AI. This structure allows easy constructi
 - Instanced
   - `['whatToInstance", ["inputs"]]`
 
-## Module Contents
+## Module Access
 Each module will have access to these items
 - The main config file
 - Its own config file
 - A resource folder
 - Scheduler tabs
 - Other modules
+
+## Module Contents
+- Module folder
+  - Config file
+  - Cron run file
+  - Resource folder
+    - Files
+    - IMGs
+  - Docs
