@@ -19,6 +19,7 @@ Modules are the building bricks of the AI. This structure allows easy constructi
 - Communicate with Scheduler
 - Be independent
 - Cross communicable
+- Have resource folder available to download
 
 
 ## Sample Var standards:

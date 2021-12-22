@@ -30,7 +30,7 @@ class module_name():
 
     def install():
         """
-        Any post install tasks will be placed here
+        Any post install tasks will be placed here.
         """
         pass
 
